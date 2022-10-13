@@ -1,0 +1,9 @@
+{
+  "name": "src",
+  "version": "0.0.1",
+	"Pikature": {
+		"CLIENT_ID": "",
+		"DEMO_CLIENT_ID": "",
+		"PIKACHURE_CLIENT_ID": ""
+	}
+}
